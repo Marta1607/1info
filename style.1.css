@@ -1,48 +1,18 @@
-.body-ptb {
-    background-image: url("./GettyImages-1211293811.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.kwadrat {
-    background-color: rgba(0, 255, 255, 0.562);
-    margin: 10%;
-    width: 80%;
-}
-h1, h2 {
-    text-align: center;
-}
-img {
-    padding-left: 25%;
-}
-h2 {
-    color:rgb(82, 4, 155);
-}
-p {
-    padding-left: 3%;
-    padding-right: 3%;
-}
-a {
-    text-decoration: none;
-    font-size: 40px;
-    margin-left: 45%;
-}
-
-/* -------------------- */
-.body-mak {
+body {
     background-color: hotpink;
 }
-.h1-mak,.h2-mak,.h3-mak {
+h1,h2,h3 {
     background-color: rgb(109, 10, 59);
     text-align: center;
     color: wheat;
     border: solid 2px black;
 }
-.h2-mak {
+h2 {
     width: 50%;
     margin-right: 25%;
     margin-left: 25%;
 }
-.h3-mak {
+h3 {
     width: 50%;
 }
 .grid-container {
@@ -54,14 +24,14 @@ li {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 100%;
 }
-.img-mak {
+.img {
     height: 626px;
     width: 940px;
 /* pading {
     /* padding-left: 25%; */
     margin-left: 25%;
 } */
-.a-2 {
+a {
     text-decoration: none;
     font-size: 40px;
     margin-left: 45%;
